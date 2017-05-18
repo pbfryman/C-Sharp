@@ -10,8 +10,8 @@ namespace Name__Age__Annual_Income
     {
         static void Main(string[] args)
         {
-            string name = "Blake Fryman";
-            int age = 23;
+            string name = "John Jacobs";
+            int age = 28;
             double annualPay = 100000;
 
             Console.WriteLine("My name is " + name + ", my age is " + age + " and I hope to earn $" + annualPay + " per year.");
