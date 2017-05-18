@@ -10,12 +10,12 @@ namespace Name_and_Initials
     {
         static void Main(string[] args)
         {
-            string firstName = "Paul";
-            string middleName = "Blake";
-            string lastName = "Fryman";
-            char firstInitial = 'P';
+            string firstName = "John";
+            string middleName = "Bill";
+            string lastName = "Jacobs";
+            char firstInitial = 'J';
             char middleInitial = 'B';
-            char lastInitial = 'F';
+            char lastInitial = 'J';
 
             Console.WriteLine(firstName + " " + middleName + " " + lastName + " ");
             Console.WriteLine(firstInitial + " " + middleInitial + " " + lastInitial);
