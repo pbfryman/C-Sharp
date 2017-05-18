@@ -10,12 +10,12 @@ namespace Personal_Information
     {
         static void Main(string[] args)
         {
-            string name = "Paul Blake Fryman";
-            string address = "7055 Town Bluff Drive";
-            string city = "Dallas";
-            string state = "TX";
-            int zip = 75248;
-            string phone = "972 - 974 - 6999";
+            string name = "John Jacobs";
+            string address = "705 Street Name Drive";
+            string city = "City";
+            string state = "ST";
+            int zip = 79779;
+            string phone = "111 - 111 - 1111";
             string major = "Business Computer Information Systems";
 
             Console.WriteLine(name);
